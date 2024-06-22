@@ -1,8 +1,8 @@
-https://codecov.io/gh/rrousselgit/riverpod/branch/master/graph/badge.svg https://app.codecov.io/analytics/github/atulkumar6556
+ 
 
 # esp32_mqtt
 
-
+<a href="https://app.codecov.io/analytics/github/atulkumar6556" target="_blank"><img src="https://codecov.io/gh/rrousselgit/riverpod/branch/master/graph/badge.svg" alt="ATUL KUMAR" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ** replace your ssid , wifipswd, mqttserver_address & qos 
