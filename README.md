@@ -1,4 +1,4 @@
-https://app.codecov.io/analytics/github/atulkumar6556
+https://codecov.io/gh/rrousselgit/riverpod/branch/master/graph/badge.svg https://app.codecov.io/analytics/github/atulkumar6556
 
 # esp32_mqtt
 
